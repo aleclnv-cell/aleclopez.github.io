@@ -17,7 +17,7 @@ navbar-links:
 ################
 
 # Remove or change this if you upload your own image
-avatar: "me.jpg"
+avatar: "/images/me.jpg"
 round-avatar: true
 
 #####################################
